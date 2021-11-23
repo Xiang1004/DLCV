@@ -1,0 +1,1 @@
+python3 bonus_test.py --img_path $1 --target_domain $2 --save_path $3

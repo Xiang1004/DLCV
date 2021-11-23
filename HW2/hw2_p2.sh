@@ -1,0 +1,1 @@
+python3 p2_test.py --save_path $1 --ckp_path p2.pth
